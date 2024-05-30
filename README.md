@@ -27,7 +27,8 @@ Chào mừng bạn đến với dự án lập trình game Unity 2D TopDown "HUM
 3. Mở dự án trong Unity.
 
 ## Hướng dẫn sử dụng
-- Xem hướng dẫn chi tiết trên YouTube: [Lập Trình Game Unity 2D TopDown - HUMG Guard](https://youtu.be/jw4WluYMBgU)
+- Xem hướng dẫn chi tiết trên YouTube:
+[![Lập Trình Game Unity 2D TopDown - HUMG Guard](https://img.youtube.com/vi/jw4WluYMBgU/0.jpg)](https://youtu.be/jw4WluYMBgU)
 - Làm theo từng bước trong video để hoàn thành dự án.
 
 ## Liên kết hữu ích
