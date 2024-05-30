@@ -32,6 +32,8 @@ Chào mừng bạn đến với dự án lập trình game Unity 2D TopDown "HUM
 
 ## Liên kết hữu ích
 - [Unity Documentation](https://docs.unity3d.com/)
+- [Assets Free](https://rgsdev.itch.io/free-cc0-modular-animated-vector-characters-2d)
+- [A* Pathfinding Project](https://arongranberg.com/astar/download)
 
 ## Ảnh minh họa
 ![Giao diện trò chơi](https://github.com/Epchannel/Unity2D-TopDown-HUMG-Guard/blob/master/HUMG%20Guard_%E1%BA%A3nh%20b%C3%ACa.jpeg)
